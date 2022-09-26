@@ -1,4 +1,4 @@
-public class BookingRequest {
+class BookingRequest {
 	private String occupancy;
 	private String amenityName;
 	private String floor;
